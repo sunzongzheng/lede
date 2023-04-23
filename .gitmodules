@@ -1,0 +1,6 @@
+[submodule "package/luci-app-unblockneteasemusic"]
+	path = package/luci-app-unblockneteasemusic
+	url = https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+[submodule "package/alist"]
+	path = package/alist
+	url = https://github.com/sbwml/luci-app-alist
